@@ -1,0 +1,27 @@
+[
+  {
+    "id":1,
+    "host":"www.bbc.co.uk",
+    "visitors":567213,
+    "rating": 67
+  },
+  {
+    "id":2,
+    "host":"wikipedia.org",
+    "visitors":1000457,
+    "rating": 98
+  },
+  {
+    "id":3,
+    "host":"www.google.com",
+    "visitors":1000000000,
+    "rating": 100
+  },
+  {
+    "id":4,
+    "host":"progbase.herokuapp.com",
+    "visitors":48,
+    "rating": 78
+  }
+  
+]
