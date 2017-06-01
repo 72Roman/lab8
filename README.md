@@ -7,3 +7,8 @@
 ### Модулі
   1. jsonCreate - модуль для трансформації данних у формат json
   2. uriRequest - модуль для обробки запитів користувача
+
+[![Travis-CI][travis-badge]][travis-builds]
+
+[travis-badge]: https://travis-ci.org/72Roman/lab8.svg?branch=master
+[travis-builds]: https://travis-ci.org/PublicHadyniak/lab8/builds
