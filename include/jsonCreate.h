@@ -67,16 +67,4 @@ char * JsonCreate_Get_website_by_id(int id, char *str);
 void JsonCreate_Get_count_and_average_from_file(char * str);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #endif
