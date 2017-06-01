@@ -35,5 +35,6 @@
 **/docs
 **/html
 **/latex
+Doxyfile
 *.log
 **/build
